@@ -1,0 +1,15 @@
+# Requires Python 3.10+
+streamlit>=1.36
+pandas>=2.2
+numpy>=1.26
+yfinance>=0.2.52
+cvxpy>=1.5
+osqp>=0.6.5
+scikit-learn>=1.4
+lxml>=5.2
+requests>=2.32
+tqdm>=4.66
+plotly>=5.22
+statsmodels>=0.14.1
+matplotlib>=3.8
+scs>=3.2
