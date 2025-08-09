@@ -129,10 +129,13 @@ The dashboard looks as follow:
 ## Outputs and files
 
 * **Weights table**: ticker, name, sector, market cap, and optimized weight.
+![Weight chart and Tracking Metrics.](https://github.com/Vispikarkaria/S-P-500-Sector-Constrained-Bayesian-Index-Tracker/blob/master/images/weights_and_tracking_metrics.png)
+
 * **Download weights CSV**: portfolio weights for your record.
 * **Tracking metrics**: in-sample and OOS **R²**, **tracking-error volatility (annualized)**, **beta**, **names**, λ and γ.
 * **Sector Mix plot**: compares **portfolio** vs **target** sector weights.
 * **Cumulative growth plots**: in-sample and OOS cumulative return growth of \$1 for portfolio vs index.
+![Cumulative growth plots.](https://github.com/Vispikarkaria/S-P-500-Sector-Constrained-Bayesian-Index-Tracker/blob/master/images/cumulative_growth_chart.png)
 * **Download metrics JSON**: full config and metrics for reproducibility.
 
 Files are generated in your working directory if you add manual saves; the app offers direct CSV/JSON downloads.
