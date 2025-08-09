@@ -109,7 +109,8 @@ streamlit run app.py
 ---
 
 ## UI walkthrough
-
+The dashboard looks as follow: 
+(images/Dash_board.png)
 * **Sectors to include**: GICS sectors you want in the investable set.
 * **Lookback window (years)**: history used to fit the model (e.g., 3–5 years).
 * **Out-of-sample window (months)**: next period (e.g., 6 months) used to evaluate tracking.
